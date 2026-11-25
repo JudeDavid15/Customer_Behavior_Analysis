@@ -1,4 +1,3 @@
-# Customer_Behavior_Analysis
 # Customer Shopping Behavior Analysis
 
 An end-to-end data analytics project exploring customer purchasing patterns, product preferences, discount behavior, customer segmentation, and subscription trends using **Python, PostgreSQL, and Power BI**.
